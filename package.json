@@ -1,0 +1,22 @@
+{
+  "name": "@v-fresh/f-core",
+  "version": "0.0.1",
+  "description": "Core Package for Vue Fresh Framework",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mqdev/f-core.git"
+  },
+  "author": {
+    "email": "2om.marco.quintella@gmail.com",
+    "name": "Marco Quintella",
+    "url": "https://github.com/mqdev/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mqdev/f-core/issues"
+  },
+  "homepage": "https://github.com/mqdev/f-core#readme"
+}
